@@ -1,0 +1,30 @@
+
+insert 271029,The Game of All Games,10,9/24/2025 0:00,10000000,10000000,0,100,100,-100.00
+             insert     67676767,Worst Game of All Time,          0,    9/25/2025 0:00   , 10000000,0 ,   10000000,-100   ,0      ,  999999.99
+
+insert Invalid Game, this is an invalid game, it will show up as such :)
+insert         999999999,      You can put anything you want in here,   Since this is a string, you can put whatever you want in here too. Doesn't have to be a date. ,0,0,0,0,0,-10
+
+isEmpty
+
+    insert     271029,The Game of All Games,10,9/24/2025 0:00,10000000,10000000,0,100,100,-100.00
+
+print
+
+                insert 0, btw, if you put commas in the name, it will get messed up and become invalid, so don't do that, thanks, 0,0,0,0,0,0
+
+search 271029,The Game of All Games,10,9/24/2025 0:00,10000000,10000000,0,100,100,-100.00
+
+search 000000,this game doesn't exist,0,whoop-dee-do,0,0,0,0,0,0
+
+remove insert     67676767,Worst Game of All Time,          0,    9/25/2025 0:00   , 10000000,0 ,   10000000,-100   ,0      ,  999999.99
+remove 67676767,Worst Game of All Time,          0,    9/25/2025 0:00   , 10000000,0 ,   10000000,-100   ,0      ,  999999.99
+
+remove 0,This Game Doesn't Exist,0,0/0/0 0:00,0,0,0,0,0,0
+
+remove
+isEmptyasfh
+print
+
+insert 123456,pokemon go: dr. cho's favorite game of all time (he was the one total reviewer btw),0,6/6/2016 0:00,1,1,0,100,100,0.00
+print

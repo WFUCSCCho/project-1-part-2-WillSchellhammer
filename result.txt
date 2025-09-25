@@ -1,0 +1,16 @@
+Binary Search Tree populated with 71166 nodes from file steam_games.csv
+insert 271029 The Game of All Games, $-100.00 | Metacritic: 100 | Released: 9/24/2025 0:00 | 10 achievements | Reviews: 10000000 (10000000 +, 0 -), Score: 100
+insert 67676767 Worst Game of All Time, $999999.99 | Metacritic: 0 | Released: 9/25/2025 0:00 | 0 achievements | Reviews: 10000000 (0 +, 10000000 -), Score: -100
+Invalid Command
+Invalid Command
+not empty
+insert 271029 The Game of All Games, $-100.00 | Metacritic: 100 | Released: 9/24/2025 0:00 | 10 achievements | Reviews: 10000000 (10000000 +, 0 -), Score: 100
+Invalid Command
+found 271029 The Game of All Games, $-100.00 | Metacritic: 100 | Released: 9/24/2025 0:00 | 10 achievements | Reviews: 10000000 (10000000 +, 0 -), Score: 100
+search failed
+Invalid Command
+removed 67676767 Worst Game of All Time, $999999.99 | Metacritic: 0 | Released: 9/25/2025 0:00 | 0 achievements | Reviews: 10000000 (0 +, 10000000 -), Score: -100
+remove failed
+Invalid Command
+invalid Command
+insert 123456 pokemon go: dr. cho's favorite game of all time (he was the one total reviewer btw), $0.00 | Metacritic: 100 | Released: 6/6/2016 0:00 | 0 achievements | Reviews: 1 (1 +, 0 -), Score: 100
